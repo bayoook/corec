@@ -1,2 +1,2 @@
-# corec
+# CoRec
 Company Recruitment
